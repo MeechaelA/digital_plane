@@ -10,7 +10,7 @@ res = end/n;
 
 thickness = 4;
 wing_chord = 2.0;
-square_bar_
+square_bar_dim = 1.0;
 
 x = [0:res:end];
 t = 24.0/100;
