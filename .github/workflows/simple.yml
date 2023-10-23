@@ -29,4 +29,5 @@ jobs:
       - name: Build Dependencies
         run: |
           sudo apt-get install -y openscad
+          ls
           openscad -o .stl airfoil.scad
