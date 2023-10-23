@@ -31,3 +31,10 @@ jobs:
           sudo apt-get install -y openscad
           ls
           openscad -o .stl airfoil.scad
+
+      - name: Archive production artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: upload_stl
+          path: |
+            *.stl            
