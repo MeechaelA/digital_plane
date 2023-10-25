@@ -1,0 +1,11 @@
+{
+    "parameterSets":
+    {
+        "airfoil_set": {
+            "camber": "0.0",
+            "chord_camber" : "0.0",
+            "leading_edge" : "0.0"
+        }
+    },
+    "fileFormatVersion": "1"
+}
