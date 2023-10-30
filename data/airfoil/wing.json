@@ -1,0 +1,14 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "camber": "2",
+            "camber_chord_distance": "40",
+            "mesh_size": "1000",
+            "rod_diameter": "0.025",
+            "square_bar_dim": "0.1",
+            "thickness": "5",
+            "wing_chord": "4"
+        }
+    },
+    "fileFormatVersion": "1"
+}
